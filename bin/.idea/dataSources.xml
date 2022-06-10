@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="hibernate.cfg.xml/Hibernate" uuid="f8cf15c2-368a-46ce-9977-4443bc57e270">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+G:/Simplilearn/COURSE 3/Web Application 2nd Projects/FlyAway/src/main/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/flyaway</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="remotedb.cfg.xml/Hibernate" uuid="9ae31d3d-07dd-4825-9a75-aa7451cc6d01">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+G:/Simplilearn/COURSE 3/Web Application 2nd Projects/FlyAway/src/main/resources/remotedb.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://remotemysql.com:3306/eFjoFAHZ5U</jdbc-url>
+    </data-source>
+  </component>
+</project>
